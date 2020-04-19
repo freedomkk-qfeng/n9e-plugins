@@ -1,0 +1,5 @@
+*.exe
+logs
+nginx/etc
+*.zip
+nssm/

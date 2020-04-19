@@ -1,0 +1,7 @@
+logger:
+  dir: logs
+  level: WARNING
+  keepHours: 24
+specify: ""
+step: 20
+pushApi: "http://127.0.0.1:2058/api/collector/push"
